@@ -32,3 +32,12 @@ TeXLive collection-documentation-korean package.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780247
+- Update to latest release.
+- Import texlive-collection-documentation-korean
+- Import texlive-collection-documentation-korean
+
