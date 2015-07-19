@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-korean
 Epoch:		1
 Version:	20120224
-Release:	8
+Release:	9
 Summary:	Korean documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
